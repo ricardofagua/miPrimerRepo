@@ -1,4 +1,8 @@
 # miPrimerRepo
 Mi primer repositorio
 
-Archivo modificado
+Archivo modificado desde local
+
+Modificación desde Github
+
+
